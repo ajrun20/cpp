@@ -1,7 +1,10 @@
 #include<iostream>
 using namespace std;
-int void(){
+int main(){
 	cout << "HELLO C PLUS PLUS";
 	cout << "THIS WAS THE FIRST FILE IN REPO";
-	return 0;
+	cout << "modifiled file in this repo";
+
+  return 0; 
+
 }
