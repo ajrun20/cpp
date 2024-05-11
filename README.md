@@ -36,4 +36,4 @@ Clone this repository and embark on your C++ journey. Practice, experiment, and 
 
 
 ***for more about this page checkout:*** 
-![AJ TECHNO PAGE!]( https://ajrunafsana.medium.com/ )
+![AJ TECHNO PAGE!]( https://www.ajrunafsana.medium.com/ )
